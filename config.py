@@ -34,7 +34,7 @@ OPENAI_CONFIG_IMP = {
 
 OPENAI_CONFIG_REC = {
     'model': 'gpt-3.5-turbo',
-    'max_tokens': 20,
+    'max_tokens': 100,
     'temperature': 0.2
 }
 
